@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="style_header_text">
+        <item name="android:textSize">@dimen/text_size_header</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontWeight">900</item>
+    </style>
+
+    <style name="style_type_movie_section">
+        <item name="android:textSize">@dimen/text_size_type_movie_section</item>
+        <item name="android:textColor">@color/main_text</item>
+        <item name="fontWeight">500</item>
+    </style>
+
+    <style name="style_movie_title">
+        <item name="android:textSize">@dimen/text_size_movie_title</item>
+        <item name="android:textColor">@color/common_text</item>
+        <item name="fontWeight">700</item>
+    </style>
+
+    <style name="style_movie_description">
+        <item name="android:textSize">@dimen/text_size_movie_description</item>
+        <item name="android:textColor">@color/common_text</item>
+        <item name="fontWeight">500</item>
+    </style>
+
+</resources>

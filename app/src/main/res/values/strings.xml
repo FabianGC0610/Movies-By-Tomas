@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesByThomas</string>
+    <string name="estatus_message_error">Error al momento de hacer la peticion</string>
+    <string name="estatus_message_error_401">Unauthorized User</string>
+    <string name="estatus_message_error_404">Request Dont Found</string>
+    <string name="text_header_title">Moviebox</string>
+    <string name="text_movie_section_playing_now">Playing now</string>
+    <string name="text_movie_section_most_popular">Most popular</string>
+</resources>
